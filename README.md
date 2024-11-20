@@ -5,7 +5,7 @@ Machine Learning || Regression Analysis || Python
 This Jupyter Notebook predicts NBA players' performance metrics (e.g., points scored) based on historical data using machine learning techniques. The notebook involves data exploration, feature engineering, and modeling using regression techniques.
 
 # How to run
-Place the csv file and jupyter code file in the same directory
+Place the csv file and jupyter code file in the same directory. I have attached both of these files.
 
 # Features
 1. Data Loading and Preparation
