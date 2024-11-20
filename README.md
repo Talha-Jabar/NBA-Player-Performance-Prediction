@@ -2,7 +2,8 @@
 Machine Learning || Regression Analysis || Python
 
 # Overview
-This Jupyter Notebook predicts NBA players' performance metrics (e.g., points scored) based on historical data using machine learning techniques. The notebook involves data exploration, feature engineering, and modeling using regression techniques.
+- This Jupyter Notebook predicts NBA players' performance metrics (e.g., points scored) based on historical data using machine learning techniques. 
+- The notebook involves data exploration, feature engineering, and modeling using regression techniques.
 
 # How to run
 Place the csv file and jupyter code file in the same directory. I have attached both of these files.
@@ -17,13 +18,13 @@ Place the csv file and jupyter code file in the same directory. I have attached 
 7.  Feature Importance
 
 # Output
-Visualizations: Distribution plots, correlation heatmap, and feature importance bar plot.
-Metrics:
+- Visualizations: Distribution plots, correlation heatmap, and feature importance bar plot.
+- Metrics:
 Linear Regression: R-squared and MAE
 Ridge Regression: R-squared and MAE
-Selected features and their coefficients for Linear Regression.
+- Selected features and their coefficients for Linear Regression.
 
 # Potential Improvements
-Experiment with additional models like Decision Trees or Random Forests.
-Optimize hyperparameters using GridSearchCV.
-Incorporate advanced time-series analysis for performance prediction.
+- Experiment with additional models like Decision Trees or Random Forests.
+- Optimize hyperparameters using GridSearchCV.
+- Incorporate advanced time-series analysis for performance prediction.
